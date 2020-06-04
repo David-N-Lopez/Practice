@@ -6,3 +6,4 @@ mcd () {
 
 
 hello
+newFeat
